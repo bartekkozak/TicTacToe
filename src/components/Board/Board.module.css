@@ -1,0 +1,15 @@
+.Board {
+  display: flex;
+  flex-wrap: wrap;
+  width: 80vw;
+  height: 80vw;
+  max-width: 500px;
+  max-height: 500px;
+}
+
+.BoardStatus {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 10px 0;
+}
